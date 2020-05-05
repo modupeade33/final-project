@@ -1,0 +1,26 @@
+* {
+    background: white;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    
+}
+
+nav {
+    background: red;
+    text-decoration: white;
+}
+    
+a {
+    text-decoration: white;
+}
+
+.in{
+    /* border-top: 1px solid; */
+    border-bottom: 1px solid;
+    padding: 8px;
+    /* line-height: 1; */
+}
+.landingpage{
+    margin-left: 20%;
+    margin-right: 20%;
+}
