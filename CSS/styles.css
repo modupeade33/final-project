@@ -1,26 +1,81 @@
-* {
-    background: white;
+body {
+    background: url(https://sterlingboardingpass.com/AlternativeOnlineAccount/img/retros/sterling_retro_bg_4Copy.jpg);
     background-repeat: no-repeat;
-    background-size: cover ;
-    
+    background-size: cover;
 }
 
 nav {
-    background: red;
-    text-decoration: white;
+    background-color: red;
 }
-    
-a {
+
+img {
+    padding: 4%;
+}
+
+.in {
+    border-bottom: 1px solid pink;
+    padding: 8px;
+   
+}
+
+.row {
+    border-bottom: 1px solid pink;
+    padding: 8px;
+    margin: auto;
+}
+
+.landingpage {
+    background-color: rgb(250, 246, 246);
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1px solid pink;
+}
+
+.form-control {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+label {
+    margin-bottom: 0rem;
+    display: block;
+}
+
+.lastpage {
+    background-color: rgb(145, 172, 103);
+    border-radius: 2px rgb(188, 209, 188);
+}
+
+#lastbutton {
+    margin: auto 46%;
+}
+
+a{
     text-decoration: white;
 }
 
-.in{
-    /* border-top: 1px solid; */
-    border-bottom: 1px solid;
-    padding: 8px;
-    /* line-height: 1; */
+.every{
+    margin-left: 28%;
+    margin-right: 10%;
+    border: 1px solid rgba(206, 200, 207, 0.993);
+
 }
-.landingpage{
-    margin-left: 20%;
-    margin-right: 20%;
+.confirmation{
+    text-align: center;
+    padding: 15px;
+}
+
+.one{
+    border: 1px solid rgba(249, 236, 250, 0.993);
+}
+
+.two{
+    border: 1px solid rgba(249, 236, 250, 0.993);
+}
+
+.three{
+    border: 1px solid rgba(249, 236, 250, 0.993); 
 }
