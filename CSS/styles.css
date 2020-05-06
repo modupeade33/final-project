@@ -1,3 +1,4 @@
+
 body {
     background: url(https://sterlingboardingpass.com/AlternativeOnlineAccount/img/retros/sterling_retro_bg_4Copy.jpg);
     background-repeat: no-repeat;
@@ -79,3 +80,35 @@ a{
 .three{
     border: 1px solid rgba(249, 236, 250, 0.993); 
 }
+
+collage{
+            width: 50%;
+            margin: auto 25%;
+}
+.in {
+    border-bottom: 1px solid pink;
+    padding: 8px;
+}
+.modal-title{
+  text-align: center;
+}
+
+
+.welcome{
+    margin-right: 35%;
+    margin-left: 35%;
+}
+.head{
+    margin-left: 190px;
+}
+
+#photo {
+    width: 120px;
+ }
+
+ #first{
+    
+ }
+
+
+    
